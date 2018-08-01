@@ -1,0 +1,22 @@
+{
+  "name": "alurabank-typescript",
+  "version": "1.0.0",
+  "description": "Curso de Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodriggoarantes/alurabank-typescript.git"
+  },
+  "author": "Rodrigo Arantes <rodrigo.arantes@pcinformatica.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodriggoarantes/alurabank-typescript/issues"
+  },
+  "homepage": "https://github.com/rodriggoarantes/alurabank-typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  }
+}
