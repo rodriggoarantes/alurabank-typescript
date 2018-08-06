@@ -6,7 +6,8 @@
     "experimentalDecorators": true,
     "target": "es6",
     "noEmitOnError" : true,
-    "noImplicitAny": true
+    "noImplicitAny": true,
+    "removeComments": true
   },
   "include": ["ts/**/*"]
 }
